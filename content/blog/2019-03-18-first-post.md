@@ -1,11 +1,6 @@
 ---
-title: Tirst post
-date: 2019-03-19T12:08:52.960Z
-description: gagagga
+title: The First Blug
+date: 2019-03-18T15:00:00.000Z
+description: Bài blog đầu tiên
 ---
-Todo List
-
-* buy milk
-* haha
-* hihi
-* huhuhu
+Chào bà con, đây là bài blog đầu tiên trong cuộc đời
